@@ -1,7 +1,7 @@
 # IOT-IDS
 
 ## IoT-Intrusion-Detection-System-UNSW-NB15
-### IOT Intrusion Detection based on various Machine learning and Deep learning algorithms using UNSW-NB15 Dataset
+### IOT Intrusion Detection based on Deep learning algorithm CNN using UNSW-NB15 Dataset
 
 
 ## Prerequisites
