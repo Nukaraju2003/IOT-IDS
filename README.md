@@ -70,12 +70,16 @@ Multi-class Dataset - 81173 rows, 69 columns
 
 ### Feature Extraction
 No. of attributes of 'bin_data' - 61
+
 No. of attributes of 'multi_data' - 69
+
 The Pearson Correlation Coefficient method is used for feature extraction.
 The attributes with more than 0.3 correlation coefficient with the target attribute label were selected.
+
 No. of attributes of 'bin_data' after feature selection - 15
 'rate', 'sttl', 'sload', 'dload', 'ct_srv_src', 'ct_state_ttl', 'ct_dst_ltm', 'ct_src_dport_ltm', 'ct_dst_sport_ltm', 'ct_dst_src_ltm', 'ct_src_ltm', 'ct_srv_dst', 'state_CON', 'state_INT', 'label'
 No. of attributes of 'multi_data' after feature selection - 16
+
 'dttl', 'swin', 'dwin', 'tcprtt', 'synack', 'ackdat', 'label', 'proto_tcp', 'proto_udp', 'service_dns', 'state_CON', 'state_FIN', 'attack_cat_Analysis', 'attack_cat_DoS', 'attack_cat_Exploits', 'attack_cat_Normal'
 
 ### Splitting Dataset
